@@ -1,0 +1,13 @@
+p{
+  color: red;
+}
+
+h3 {
+  color: blue;
+}
+
+button {
+  color: green;
+  font-weight: 600;
+  background-color: yellow;
+}

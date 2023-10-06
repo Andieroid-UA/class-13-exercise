@@ -1,0 +1,6 @@
+<button (click)="startCounter()">Start Workday</button>
+<button (click)="stopCounter()">End Workday</button>
+
+<div *ngIf="isNumberShown">
+  <p>Order Number: {{ count }}</p>
+</div>
